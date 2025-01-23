@@ -25,3 +25,4 @@ Change theme color
 Add documentation
 Update configuration
 Polish UI layout
+Clean up codebase
