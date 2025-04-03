@@ -22,3 +22,4 @@ Fix broken link
 Improve logging
 Rewrite function Y
 Change theme color
+Add documentation
