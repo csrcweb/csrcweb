@@ -28,3 +28,4 @@ Polish UI layout
 Clean up codebase
 Improve error handling
 Add documentation
+Polish UI layout
