@@ -19,3 +19,4 @@ Tweak margin and padding
 Update configuration
 Clean up codebase
 Fix broken link
+Improve logging
