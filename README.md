@@ -26,3 +26,4 @@ Add documentation
 Update configuration
 Polish UI layout
 Clean up codebase
+Improve error handling
